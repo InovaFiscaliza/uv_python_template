@@ -4,7 +4,7 @@ Prerequisites: `uv` instalado
 
 ## Setup
 1. After creating your repository from the template.
-2. With uv installed, start a new project in the root of the repository:`uv init <project_name>`. This will create a `pyproject.toml` file and a `src/<project_name>` folder. This folder contains a file `__init__.py` which makes it a python module that will be installed in the scope of the project's virtual environment.
+2. With uv installed, start a new project in the root of the repository:`uv init --package <project_name>`. This will create a `pyproject.toml` file and a `src/<project_name>` folder. This folder contains a file `__init__.py` which makes it a python package that will be installed in the scope of the project's virtual environment.
 
 ## Adding dependencies
 The recommended way to add dependencies to the `uv` project is via the `uv add <package>` command. If the dependency is not on the current library, but only on the development environment, such as `pytest` or `jupyterlab`, simply include the `--dev` flag after `add`: `uv add --dev pytest`
