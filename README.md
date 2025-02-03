@@ -1,11 +1,13 @@
 # uv_python_template
 
-Pré-Requisitos: `uv` 
+Pré-Requisitos: `uv` instalado
+
+uv
 
 <details>
     <summary>Table of Contents</summary>
     <ol>
-        <li><a href="#About">About Scarab</a></li>
+        <li><a href="#About">About</a></li>
         <li><a href="#Scripts_and_Files">Scripts and Files</a></li>
         <li><a href="#setup">Setup</a></li>
         <li><a href="#roadmap">Roadmap</a></li>
