@@ -1,9 +1,3 @@
-# uv_python_template
-
-Pré-Requisitos: `uv` instalado
-
-uv
-
 <details>
     <summary>Table of Contents</summary>
     <ol>
@@ -19,6 +13,7 @@ uv
 # About
 
 <img align="left" width="100" height="100" src="" alt="Imagem ou logo do Projeto"> 
+
 <br>
 
 Project Description
