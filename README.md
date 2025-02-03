@@ -1,5 +1,7 @@
 # uv_python_template
-Repositório base para projetos python baseados em uv no InovaFiscaliza
+
+Pré-Requisitos: `uv` 
+
 <details>
     <summary>Table of Contents</summary>
     <ol>
